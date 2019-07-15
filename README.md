@@ -21,14 +21,14 @@ Read me file for hosting Hello World
   
   Add file name as *index.html* and type in a simple Hello World html program.
   
-  ![Creating index.html](/img/creaing_newfile.png)
+  ![Creating index.html](/img/creating_index.png)
   
 - Commit new file 
 
   In GitHub, to save a file or its changes we need to commit changes.   
   To commit, scroll down and in *Commit new file* section write up the changes or the message you might help you get to it later easily.Finally, click on **Commit new file**.
   
-  ![Commiting a new file](/img/commiting_index.html.png)
+  ![Commiting a new file](/img/commiting_index.png)
   
 - Create *gh-pages* branch
 
