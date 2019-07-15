@@ -7,7 +7,8 @@ Read me file for hosting Hello World
   For this, you need to initially have a GitHub account. Sign up your account using [this link](https://github.com/)   
   In the upper-right corner of any page, click '+', and then click **New repository**.
   
-  ![Clicking on New Repository]()   
+  ![Clicking on New Repository](/img/creating_repo1.png)
+  
   ![Creating a new repository]()   
     
   Click on **Create Repository**.  
