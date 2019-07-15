@@ -28,7 +28,7 @@ Read me file for hosting Hello World
   In GitHub, to save a file or its changes we need to commit changes.   
   To commit, scroll down and in *Commit new file* section write up the changes or the message you might help you get to it later easily.Finally, click on **Commit new file**.
   
-  ![Commiting a new file](/img/commiting_index.png)
+  ![Commiting a new file](/img/commiting_indexfile.png)
   
 - Create *gh-pages* branch
 
